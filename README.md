@@ -26,3 +26,9 @@ import generate.py
     Difficulty is 3 (Out of 5)
     6 words generated
 ```
+
+## Example output
+
+```
+WIP
+```
