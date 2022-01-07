@@ -17,4 +17,12 @@ cp ./app/.env.example ./app/.env
 
 ```
 import generate.py
+
+### Generate username:
+
+  generate.user(8,3,6)
+  
+    Word length up to 8
+    Difficulty is 3 (Out of 5)
+    6 words generated
 ```
